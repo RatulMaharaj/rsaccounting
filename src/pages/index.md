@@ -17,35 +17,28 @@ sections:
     layout_style: mosaic
     title: Recent Work
     subtitle: An optional subtitle of the section
-    projects_number: 6
-    view_all_label: View All
-    view_all_url: portfolio/index.html
+    projects_number: 2
   - section_id: services
     type: section_grid
     title: What We Do
-    subtitle: An optional subtitle of the section
+    subtitle: We offer a wide variety of specialised accounting services
     col_number: two
     is_numbered: true
     grid_items:
-      - title: Service Title
+      - title: Advice you can rely on
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla .
-      - title: Service Title
+          We offer guidelines on record keeping and how we can do your accounting for you. We also offer advice on payroll and accounting software.
+      - title: Fully register your business
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus.
+          We can help you with all your Company registrations, SARS registrations (Income Tax, Value added Tax, Payroll Taxes) and Department of labour registrations (UIF and Workmen's compensation)
       - title: Service Title
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
           dui sollicitudin.
-      - title: Service title
+      - title: No business is too small for us
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          We understand the impact and importance of small businesses in our economy and can help keep your business in a healthy and prosperous state.
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials

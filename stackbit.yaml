@@ -1,7 +1,6 @@
 stackbitVersion: ~0.2.0
 ssgName: gatsby
 ssgVersion: 0.1.12
-buildCommand: ./ssg-build.sh
 publishDir: public
 staticDir: static
 uploadDir: images
@@ -9,10 +8,10 @@ dataDir: src/data
 pagesDir: src/pages
 pageLayoutKey: template
 metadata:
-  title: Exto
-  description: A portfolio theme with a blog
-  author: Stackbit
-  authorURL: 'https://www.stackbit.com'
+  title: RS Accounting
+  description: RS Accounting Services CC
+  author: Ratul Maharaj
+  authorURL: 'https://www.rsaccounting.co.za'
   images:
     small: images/demo-256x192.png
     large: images/demo-1024x768.png
@@ -29,10 +28,7 @@ pageData:
       - '[1].fields.color_scheme'
       - '[1].fields.accent_color'
 stackbit_banner:
-  show_banner: true
-  name: Exto
-  create_url: 'https://app.stackbit.com/create?theme=exto'
-  github_url: 'https://github.com/stackbithq/stackbit-theme-exto'
+  show_banner: false
 models:
   config:
     type: config
