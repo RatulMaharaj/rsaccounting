@@ -1,6 +1,6 @@
 import React from "react";
 import _ from "lodash";
-import { FaBeer, FaLinkedin, FaEnvelope, FaPhone } from "react-icons/fa";
+import { FaGithub, FaEnvelope, FaPhone } from "react-icons/fa";
 
 import { htmlToReact } from "../utils";
 import ActionLink from "./ActionLink";
@@ -39,6 +39,10 @@ export default class Footer extends React.Component {
 
             <div className="social-links" >
                          
+              <a href="https://github.com/RatulMaharaj">
+              <FaGithub />
+              </a>
+
               <a href="mailto:sarge@rsaccounting.co.za">
               <FaEnvelope />
               </a>
