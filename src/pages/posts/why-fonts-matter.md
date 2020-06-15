@@ -1,10 +1,8 @@
 ---
-title: Why Fonts Matter
+title: Advice you can rely on
 excerpt: >-
-  Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-  massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
-  placerat lorem.
-date: 'Hello'
+  We offer guidelines on record keeping and how we can do your accounting for you. We also offer advice on payroll and accounting software.
+date: '2019-04-10'
 thumb_image: images/9.jpg
 image: images/9.jpg
 template: post

@@ -1,8 +1,7 @@
 ---
-title: The Elements of Great Workplace Design
+title: Fully register your business
 excerpt: >-
-  Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
-  sapien blandit ac amet faucibus aliquet placerat commodo.
+  We can help you with all your Company registrations, SARS registrations (Income Tax, VAT, Payroll Taxes) and Department of labour registrations (UIF and Workmen's compensation).
 date: '2019-03-24'
 thumb_image: images/10.jpg
 image: images/10.jpg

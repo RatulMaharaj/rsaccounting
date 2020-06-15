@@ -14,31 +14,37 @@ sections:
         type: button
   - section_id: latest-posts
     type: section_posts
-    title: Latest from the Blog
-    subtitle: An optional subtitle of the section
+    title: What We Do
+    subtitle: We offer a wide variety of specialised services
     posts_number: 3
     col_number: three
   - section_id: services
     type: section_grid
-    title: What We Do
-    subtitle: We offer a wide variety of specialised accounting services
+    title: Specialised Services
+    subtitle: We offer a variety of professional services
     col_number: two
     is_numbered: true
     grid_items:
-      - title: Advice you can rely on
-        content: >-
-          We offer guidelines on record keeping and how we can do your accounting for you. We also offer advice on payroll and accounting software.
-      - title: Fully register your business
-        content: >-
-          We can help you with all your Company registrations, SARS registrations (Income Tax, Value added Tax, Payroll Taxes) and Department of labour registrations (UIF and Workmen's compensation)
-      - title: Service Title
+      - title: Tax services and advisory
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
           dui sollicitudin.
-      - title: No business is too small for us
+      - title: Finance applications
         content: >-
-          We understand the impact and importance of small businesses in our economy and can help keep your business in a healthy and prosperous state.
+          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
+          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
+          dui sollicitudin.
+      - title: Business plans
+        content: >-
+          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
+          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
+          dui sollicitudin.
+      - title: Litigation support
+        content: >-
+          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
+          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
+          dui sollicitudin.
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials
@@ -63,10 +69,10 @@ sections:
           convallis, interdum ligula vel, pretium diam.
   - section_id: latest-posts
     type: section_posts
-    title: Latest from the Blog
-    subtitle: An optional subtitle of the section
-    posts_number: 3
-    col_number: three
+    title: Contact Us
+    subtitle: Get in touch with us to learn more about our services
+    posts_number: 0
+    col_number: zero
     actions:
       - label: Contact
         url: /contact

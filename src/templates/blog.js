@@ -31,7 +31,7 @@ export default class Blog extends React.Component {
                     <header className="post-header">
                       <h2 className="post-title"><Link to={safePrefix(_.get(post, 'url'))} rel="bookmark">{_.get(post, 'frontmatter.title')}</Link></h2>
                       <div className="post-meta">
-                        <time className="published"
+                        <time className="published" 
                           dateTime={moment(_.get(post, 'frontmatter.date')).strftime('%Y-%m-%d %H:%M')}>{moment(_.get(post, 'frontmatter.date')).strftime('%B %d, %Y')}</time>
                       </div>
                     </header>

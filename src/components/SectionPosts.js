@@ -29,14 +29,14 @@ export default class SectionPosts extends React.Component {
                     <article key={post_idx} className="post grid-item">
                       <div className="post-inside">
                         {_.get(post, 'frontmatter.thumb_image') && 
-                        <Link className="post-thumbnail" to={safePrefix(_.get(post, 'url'))}>
+                        <Link className="post-thumbnail">
                           <img src={safePrefix(_.get(post, 'frontmatter.thumb_image'))} alt={_.get(post, 'frontmatter.title')} />
                         </Link>
                         }
                         <header className="post-header">
-                          <h3 className="post-title"><Link to={safePrefix(_.get(post, 'url'))} rel="bookmark">{_.get(post, 'frontmatter.title')}</Link>
+                          <h3 className="post-title">{_.get(post, 'frontmatter.title')}
                           </h3>
-                          <div className="post-meta">
+                          <div className="post-meta" style={{display:`no`}}>
                             <time className="published"
                               dateTime={moment(_.get(post, 'frontmatter.date')).strftime('%Y-%m-%d %H:%M')}>{moment(_.get(post, 'frontmatter.date')).strftime('%B %d, %Y')}</time>
                           </div>
