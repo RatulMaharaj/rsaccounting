@@ -7,7 +7,7 @@ sections:
     content: >-
       Hi there! Thank you so much for your interest in working together. Please
       fill the contact form below or send us an email at
-      [example@example.com](mailto:example@example.com).
+      [sarge@rsaccounting.co.za](mailto:sarge@rsaccounting.co.za).
     form_id: contactForm
     form_action: /thank-you
     form_fields:
@@ -21,14 +21,6 @@ sections:
         label: Email
         default_value: Your email address
         is_required: true
-      - type: select
-        name: subject
-        label: Subject
-        default_value: Please select
-        options:
-          - Error on the site
-          - Sponsorship
-          - Other
       - type: textarea
         name: message
         label: Message

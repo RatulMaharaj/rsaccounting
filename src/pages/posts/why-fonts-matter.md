@@ -4,9 +4,9 @@ excerpt: >-
   Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
   massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
   placerat lorem.
-date: '2019-03-27'
-thumb_image: images/12.jpg
-image: images/12.jpg
+date: 'Hello'
+thumb_image: images/9.jpg
+image: images/9.jpg
 template: post
 ---
 
