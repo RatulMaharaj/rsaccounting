@@ -12,12 +12,12 @@ sections:
       - label: Let's talk
         url: /contact
         type: button
-  - section_id: latest-projects
-    type: section_portfolio
-    layout_style: mosaic
-    title: Recent Work
+  - section_id: latest-posts
+    type: section_posts
+    title: Latest from the Blog
     subtitle: An optional subtitle of the section
-    projects_number: 2
+    posts_number: 3
+    col_number: three
   - section_id: services
     type: section_grid
     title: What We Do
@@ -68,8 +68,8 @@ sections:
     posts_number: 3
     col_number: three
     actions:
-      - label: View Blog
-        url: blog/index.html
+      - label: Contact
+        url: /contact
         type: button
 template: advanced
 ---
