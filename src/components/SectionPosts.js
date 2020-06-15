@@ -36,7 +36,7 @@ export default class SectionPosts extends React.Component {
                         <header className="post-header">
                           <h3 className="post-title">{_.get(post, 'frontmatter.title')}
                           </h3>
-                          <div className="post-meta" style={{display:`no`}}>
+                          <div className="post-meta" style={{display:`none`}}>
                             <time className="published"
                               dateTime={moment(_.get(post, 'frontmatter.date')).strftime('%Y-%m-%d %H:%M')}>{moment(_.get(post, 'frontmatter.date')).strftime('%B %d, %Y')}</time>
                           </div>

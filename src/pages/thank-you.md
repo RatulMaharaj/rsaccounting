@@ -1,6 +1,5 @@
 ---
 title: Thank You!
-image: images/thank-you.jpg
 template: page
 ---
 

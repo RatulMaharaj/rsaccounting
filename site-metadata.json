@@ -25,35 +25,27 @@
     },
     "footer": {
         "content": "&copy; RS Accounting Services CC. All rights reserved.",
-        "links": [
-            {
-                "label": "Made by Ratul Maharaj.",
-                "url": "https://www.ratulmaharaj.com",
-                "type": "link",
-                "new_window": true
-            }
-        ],
         "has_social": true,
         "social_links": [
-            {
-                "label": "Twitter",
-                "url": "https://twitter.com/",
-                "type": "icon",
-                "icon_class": "fa-twitter",
-                "new_window": true
-            },
-            {
-                "label": "Instagram",
-                "url": "https://www.instagram.com/",
-                "type": "icon",
-                "icon_class": "fa-instagram",
-                "new_window": true
-            },
             {
                 "label": "LinkedIn",
                 "url": "https://www.linkedin.com/",
                 "type": "icon",
                 "icon_class": "fa-linkedin",
+                "new_window": true
+            },
+            {
+                "label": "Mail",
+                "url": "mailto:sarge@rsaccounting.co.za",
+                "type": "icon",
+                "icon_class": "envelope",
+                "new_window": true
+            },
+            {
+                "label": "LinkedIn",
+                "url": "tel:0112904727",
+                "type": "link",
+                "icon_class": "fa-phone",
                 "new_window": true
             }
         ]
