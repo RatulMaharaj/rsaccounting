@@ -1,7 +1,7 @@
 ---
-title: No business is too small for us
+title: Fully register your business
 excerpt: >-
-  We understand the impact and importance of small businesses in our economy and can help keep your business in a healthy and prosperous state.
+  We can help you with all your Company registrations, SARS registrations (Income Tax, VAT, Payroll Taxes) and Department of labour registrations (UIF and Workmen's compensation).
 date: '2019-03-10'
 thumb_image: images/12.jpg
 image: images/12.jpg

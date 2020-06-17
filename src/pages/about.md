@@ -5,10 +5,10 @@ image: images/about.jpg
 template: page
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
+RS Accounting Services CC was founded by Sajeel Maharaj and commenced trading on the 1 March 1998, with just two employees. Today we have over 150 satisfied clients and 12 permanent employees.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
+>We can put a quote here - Sajeel Maharaj
 
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
+Our offices are in Hillary, Kwa-Zulu Natal - but we service clients all over South Africa which we frequently travel to meet. 
 
 *Thank You for reading!*

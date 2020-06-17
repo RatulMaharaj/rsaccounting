@@ -6,8 +6,8 @@ sections:
     type: section_form
     content: >-
       Hi there! Thank you so much for your interest in working together. Please
-      fill the contact form below or send us an email at
-      [sarge@rsaccounting.co.za](mailto:sarge@rsaccounting.co.za).
+      fill the contact form below or send an email to
+      [sarge@rsaccounting.co.za](mailto:sarge@rsaccounting.co.za)
     form_id: contactForm
     form_action: /thank-you
     form_fields:

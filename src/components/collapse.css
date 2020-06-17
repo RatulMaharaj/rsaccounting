@@ -1,0 +1,10 @@
+.Collapsible__trigger{
+    font-weight: bold;
+}
+.Collapsible{
+    margin-bottom: 1.5em;
+}
+
+.Collapsible__contentInner{
+    margin-left: 1.1em;
+}

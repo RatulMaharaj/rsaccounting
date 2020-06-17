@@ -22,6 +22,7 @@ sections:
     type: section_testimonials
     title: Accounting Services
     subtitle: An optional subtitle of the section
+    accounting: true
   - section_id: services
     type: section_grid
     title: Specialised Services
@@ -49,7 +50,21 @@ sections:
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
           dui sollicitudin.
-
+      - title: Attorney Trust Accounts
+        content: >-
+          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
+          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
+          dui sollicitudin.
+      - title: On Site Services
+        content: >-
+          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
+          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
+          dui sollicitudin.
+  - section_id: testimonials
+    type: section_testimonials
+    title: FAQ
+    subtitle: Frequently Asked Questions
+    accounting: false        
   - section_id: latest-posts
     type: section_posts
     title: Contact Us
