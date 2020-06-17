@@ -13,7 +13,7 @@
             },
             {
                 "label": "About",
-                "url": "/#FAQ",
+                "url": "/about/",
                 "type": "link"
             },
             {
