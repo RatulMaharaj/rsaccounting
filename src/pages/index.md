@@ -15,7 +15,7 @@ sections:
   - section_id: latest-posts
     type: section_posts
     title: What We Do
-    subtitle: We offer a wide variety of specialised services
+    subtitle: We are here to help your business succeed
     posts_number: 3
     col_number: three
   - section_id: testimonials
@@ -68,7 +68,7 @@ sections:
   - section_id: latest-posts
     type: section_posts
     title: Contact Us
-    subtitle: Get in touch with us to learn more about our services
+    subtitle: Get in touch with us to learn more about our services.
     posts_number: 0
     col_number: zero
     actions:

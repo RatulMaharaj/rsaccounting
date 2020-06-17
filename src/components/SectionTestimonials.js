@@ -53,8 +53,10 @@ export default class SectionTestimonials extends React.Component {
                   reporting structures
                 </li>
                 <li>Completion and submission of all statutory returns</li>
+                <li>Reconciliations</li>
                 <li>Cash flow projections</li>
                 <li>Payroll services</li>
+                <li>Management Accounting</li>
                 <li>Annual financial statements</li>
               </ul>
             </div>

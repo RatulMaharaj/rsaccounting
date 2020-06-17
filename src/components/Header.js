@@ -4,7 +4,7 @@ import _ from "lodash";
 import { Link, safePrefix, classNames } from "../utils";
 import ActionLink from "./ActionLink";
 
-import Logo from "../../static/images/Logo.png";
+import Logo from "../../static/Logo.png";
 
 export default class Header extends React.Component {
   render() {
