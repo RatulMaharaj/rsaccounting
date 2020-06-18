@@ -64,6 +64,7 @@ export default class SectionTestimonials extends React.Component {
             <div id="FAQ">
               <Collapsible
                 trigger="&#x25BE; I am a start-up or small business - are you able to tailor an affordable solution to my needs so that we can grow together?"
+                triggerWhenOpen="&#x25B4; I am a start-up or small business - are you able to tailor an affordable solution to my needs so that we can grow together?"
               >
                 <p>
                 Most certainly. We have clients that have started as a one-man business and now turnover in excess of R5m.
@@ -71,27 +72,31 @@ export default class SectionTestimonials extends React.Component {
               </Collapsible>
               <Collapsible
                 trigger="&#x25BE; I have a great business idea but I am not clued up on paperwork and tax - can you guide me patiently?"
+                triggerWhenOpen="&#x25B4; I have a great business idea but I am not clued up on paperwork and tax - can you guide me patiently?"
               >
                 <p>
                 Your focus on growing your idea, we will take care of the paperwork.
                 </p>
               </Collapsible>
               <Collapsible
-                trigger="&#x25BE; I want an accountant that can meet with me an give me bright ideas - do you have a flair for such things? "
+                trigger="&#x25BE; I want an accountant that can meet with me an give me bright ideas - do you have a flair for such things?"
+                triggerWhenOpen="&#x25B4; I want an accountant that can meet with me an give me bright ideas - do you have a flair for such things?"
               >
                 <p>
                 With over {today.getFullYear() - 1997} years of experience, we must have bright ideas!
                 </p>
               </Collapsible>
               <Collapsible
-                trigger="&#x25BE; I need someone to guide me on how to structure my transactions so that it gives me the best tax advantage - can you help? "
+                trigger="&#x25BE; I need someone to guide me on how to structure my transactions so that it gives me the best tax advantage - can you help?"
+                triggerWhenOpen="&#x25B4; I need someone to guide me on how to structure my transactions so that it gives me the best tax advantage - can you help?"
               >
                 <p>
                 We have smart ways - talk to us - Tax CPD hours galore.
                 </p>
               </Collapsible>
               <Collapsible
-                trigger="&#x25BE; I am looking for a one stop accounting tax shop - can you help? "
+                trigger="&#x25BE; I am looking for a one stop accounting tax shop - can you help?"
+                triggerWhenOpen="&#x25B4; I am looking for a one stop accounting tax shop - can you help?"
               >
                 <p>
                 You have come to the right place! We are waiting for your call. We are people who you can have safe discussions with. Try us!
