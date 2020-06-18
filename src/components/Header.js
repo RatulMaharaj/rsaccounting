@@ -3,7 +3,7 @@ import _ from "lodash";
 
 import { Link, safePrefix, classNames } from "../utils";
 import ActionLink from "./ActionLink";
-
+import Logo from "../../static/rsa.png"
 import "./logo.css"
 export default class Header extends React.Component {
   render() {
@@ -11,7 +11,7 @@ export default class Header extends React.Component {
       <header id="masthead" className="site-header outer">
         <div className="inner">
           <div className="site-header-inside">
-            <div className="site-branding" style={{backgroundColor:`#fff`, padding:`0.2em 0`}}>
+            {/* <div className="site-branding" style={{backgroundColor:`#fff`, padding:`0.2em 0`}}>
               <p className="site-title" className="mylogo">
                 <Link to={safePrefix("/")} style={{backgroundColor:`#fff`}}>
                   {_.get(
@@ -20,7 +20,12 @@ export default class Header extends React.Component {
                   )}
                 </Link>
               </p>
+            </div> */}
+            <Link to={safePrefix("/")} style={{border:`none`}}>
+            <div>
+              <img src={Logo} style={{height:`3em`}}/>
             </div>
+            </Link>
             {_.get(
               this.props,
               "pageContext.site.siteMetadata.header.has_nav"
