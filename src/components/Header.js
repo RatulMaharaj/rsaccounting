@@ -4,26 +4,16 @@ import _ from "lodash";
 import { Link, safePrefix, classNames } from "../utils";
 import ActionLink from "./ActionLink";
 
-import Logo from "../../static/Logo.png";
-
+import "./logo.css"
 export default class Header extends React.Component {
   render() {
     return (
       <header id="masthead" className="site-header outer">
         <div className="inner">
           <div className="site-header-inside">
-            <div className="site-branding" style={{display:`flex`, flexDirection:`row`, backgroundColor:`#0da5b1`, padding:`0.2em 0`}}>
-              <p className="site-logo">
-                <Link to={safePrefix("/")}>
-                  <img
-                    src={Logo}
-                    alt="Logo"
-                    style={{ width: `1em`, height: `auto`, paddingLeft: `0.45em` }}
-                  />
-                </Link>
-              </p>
-              <p className="site-title">
-                <Link to={safePrefix("/")}>
+            <div className="site-branding" style={{backgroundColor:`#fff`, padding:`0.2em 0`}}>
+              <p className="site-title" className="mylogo">
+                <Link to={safePrefix("/")} style={{backgroundColor:`#fff`}}>
                   {_.get(
                     this.props,
                     "pageContext.site.siteMetadata.header.title"

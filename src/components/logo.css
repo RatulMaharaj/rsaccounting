@@ -1,0 +1,30 @@
+.mylogo {
+    color: #0da5b1;
+    text-transform: uppercase;
+    font-weight: 600;
+    margin: 0;
+    padding: 0.2em 0.9em;
+    position: relative;
+}
+  
+  .mylogo > a:before {
+    content: '';
+    position: absolute;
+    width: 15%;
+    height: calc(100% - 15px);
+    bottom: 0;
+    left: 0;
+    border-bottom: 2.25px solid #0da5b1;
+    border-left: 2.25px solid #0da5b1;
+  }
+  
+  .mylogo > a:after {
+    content: '';
+    position: absolute;
+    width: 15%;
+    height: calc(100% - 15px);
+    top: 0;
+    right: 0;
+    border-top: 2.25px solid #0da5b1;
+    border-right: 2.25px solid #0da5b1;
+  }
