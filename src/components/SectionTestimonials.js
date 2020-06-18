@@ -94,7 +94,7 @@ export default class SectionTestimonials extends React.Component {
                 trigger="&#x25BE; I am looking for a one stop accounting tax shop - can you help? "
               >
                 <p>
-                You have come to the right place! We are waiting for your call. We are people who you can safe discussions with. Try us!
+                You have come to the right place! We are waiting for your call. We are people who you can have safe discussions with. Try us!
                 </p>
               </Collapsible>
             </div>
