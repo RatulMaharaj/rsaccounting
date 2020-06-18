@@ -1,5 +1,6 @@
 .Collapsible__trigger{
     font-weight: bold;
+    user-select: none;
 }
 .Collapsible{
     margin-bottom: 1.5em;

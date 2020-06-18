@@ -42,20 +42,16 @@ sections:
           dui sollicitudin.
       - title: Business plans
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
+          If you need funding to start or grow your venture, we can help by developing a custom designed business plan and financial forecast that is investor friendly.
       - title: Litigation support
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
-      - title: Attorney Trust Accounts
+          We know that legal fees can cost an arm and a leg. Let's get the numbers right before you go to court.
+      - title: Attorney trust accounts
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
           dui sollicitudin.
-      - title: On Site Services
+      - title: On-site services
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
