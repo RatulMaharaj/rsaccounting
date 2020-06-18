@@ -21,7 +21,7 @@ sections:
   - section_id: testimonials
     type: section_testimonials
     title: Accounting Services
-    subtitle: An optional subtitle of the section
+    subtitle: We are a team of experienced accounting professionals
     accounting: true
   - section_id: services
     type: section_grid
@@ -32,30 +32,22 @@ sections:
     grid_items:
       - title: Tax services and advisory
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
+          Over the years we have amassed an array of legitimate Tax Saving techniques. Rely on our expertise to help you optimise your tax benefits and avoid penalties.
       - title: Finance applications
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
+          Let us assist in securing funding by effectively communicating the viability of your business ideas. We can help turn those dreams into a reality.
       - title: Business plans
         content: >-
-          If you need funding to start or grow your venture, we can help by developing a custom designed business plan and financial forecast that is investor friendly.
+          If you need funding to start or grow your venture, we can help by developing a custom designed business plan and financial forecast that is user friendly.
       - title: Litigation support
         content: >-
-          We know that legal fees can cost an arm and a leg. Let's get the numbers right before you go to court.
+          We know that legal fees can cost an arm and a leg. We can help you to avoid unnecessary expenditure by ensuring that you get the numbers right before you go to court.
       - title: Attorney trust accounts
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
+          We perform fast and efficient write ups of attorney trust accounts. We also prepare audit files and reports for trust account audits and advice on how to better manage trust accounts.
       - title: On-site services
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
+          We also offer a range of on-site services such as data and system reviews, management consulting as well as the presentation and explanation of reports and workings.  
   - section_id: testimonials
     type: section_testimonials
     title: FAQ
